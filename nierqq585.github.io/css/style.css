@@ -1,0 +1,20 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { 
+    font-family: Arial, sans-serif; 
+    line-height: 1.6; 
+    max-width: 800px; 
+    margin: 0 auto; 
+    padding: 20px;
+}
+header { background: #333; color: white; padding: 1rem; }
+nav a { color: white; margin-right: 20px; text-decoration: none; }
+main { padding: 40px 0; text-align: center; }
+.btn { 
+    display: inline-block; 
+    background: #007bff; 
+    color: white; 
+    padding: 12px 24px; 
+    text-decoration: none; 
+    border-radius: 5px; 
+    margin-top: 20px;
+}
